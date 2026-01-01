@@ -1,0 +1,14 @@
+*.txt
+# Sensitive data
+.env
+.env.*
+*.key
+*.pem
+*.cert
+*.pfx
+*.p12
+id_rsa
+id_ecdsa
+id_ed25519
+secrets.json
+credentials.json
